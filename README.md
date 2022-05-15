@@ -46,7 +46,7 @@ MechaCarChallenge.R  [file](MechaCarChallenge.R)
 - City or highway fuel efficiency, cost, cargo space and safety ratings would be interesting metrics to test against competing models. 
 - T-tests would be the best statictical tests to run. 
 
-### Resources
+## Resources
 
 - MechaCar_mpg.csv   [file](MechaCar_mpg.csv)
 - Suspension_Coil.csv  [file](Suspension_Coil.csv)
