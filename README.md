@@ -9,7 +9,10 @@ Data Analysis includes the following actions:
 - Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
-- 
+
+## Code
+MechaCarChallenge.R  [file](MechaCarChallenge.R)
+
 ## Linear Regression to Predict MPG
 
 - Vehicle length and ground clearance have p-values of 2.60e-12  and  5.21e-08, respectively , which indicate they are the variables that have the most non-random amount of variance. 
@@ -30,7 +33,7 @@ Data Analysis includes the following actions:
 
 ## T-Tests on Suspension Coils
 
-- Briefly summarize your interpretation and findings for the t-test results
+- Lot 3 is the only lot that shows p-value under .05  which means it is statistically different from the rest.
 
 ![One_Sample_T-test](https://user-images.githubusercontent.com/98564776/168491951-9afadd54-f971-40de-92ec-2024d7ae3a50.PNG)
 
@@ -39,12 +42,9 @@ Data Analysis includes the following actions:
 
 ## Study Design: MechaCar vs Competition
 
-- short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-- What metric or metrics are you going to test?
-- What is the null hypothesis or alternative hypothesis?
-- What statistical test would you use to test the hypothesis? And why?
-- What data is needed to run the statistical test?
-
+- For further study, MechaCar must be measured against the competition. Metrics that would be of interest to a consumer include cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.  
+- City or highway fuel efficiency, cost and safety ratings would be interesting metrics to test against competing models. 
+- T-tests would be the best statictical tests to run. 
 
 ### Resources
 
