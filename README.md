@@ -42,8 +42,8 @@ MechaCarChallenge.R  [file](MechaCarChallenge.R)
 
 ## Study Design: MechaCar vs Competition
 
-- For further study, MechaCar must be measured against the competition. Metrics that would be of interest to a consumer include cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.  
-- City or highway fuel efficiency, cost and safety ratings would be interesting metrics to test against competing models. 
+- For further study, MechaCar must be measured against the competition. Metrics that would be of interest to a consumer include cost, city or highway fuel efficiency, horse power, maintenance cost, safety rating, rear leg room, comfort, cargo space, and interior add-ons.  
+- City or highway fuel efficiency, cost, cargo space and safety ratings would be interesting metrics to test against competing models. 
 - T-tests would be the best statictical tests to run. 
 
 ### Resources
