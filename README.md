@@ -38,6 +38,6 @@
 
 ### Resources
 
-- MechaCar_mpg.csv
-- Suspension_Coil.csv
+- MechaCar_mpg.csv   [file](MechaCar_mpg.csv)
+- Suspension_Coil.csv  [file](Suspension_Coil.csv)
 - RStudio
